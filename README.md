@@ -38,24 +38,13 @@ please help us by contributing back!
 
 ### Notes for contributers:
 
-1. We do NOT accept pull requests that have deleted another contributer's hint
-   or solution without a very clear reason (such as "it doesn't actually pass
-   the tests on Udacity").
-2. ALL solutions must be clearly documented (please do not submit a solution
-   that is just code without explaining why it works).
-3. ALL solutions must actually work (please do not submit code that doesn't
-   pass Udacity's tests for that question).
-4. ONLY use concepts covered in the class (While I'm sure you can
-   [code golf](http://en.wikipedia.org/wiki/Code_golf) with the best of them, the
-   point of this repo is for students to understand the covered topics).
-5. We happy accept contributions that clarify solutions or hints (you are
-   welcome to edit another contributer's submission).
-6. We prefer hints to solutions (the goal is for students to get the solution
-   on their own, without looking at the supplied solutions).
-7. We're not too fussed about exercises that have videos up on the site - if
-   you want to supply hints/solutions, great! But we're more interested in the
-   "optional" exercises that don't have any solutions supplied.
-
-## Thank you
+1. We do NOT accept pull requests that have deleted another contributer's hint or solution without a very clear reason (such as "it doesn't actually pass the tests on Udacity").
+2. ALL solutions must be clearly documented (please do not submit a solution that is just code without explaining why it works)
+3. ALL solutions must actually work (please do not submit code that doesn't pass Udacity's tests for that question)
+4. ONLY use concepts covered in the class (While I'm sure you can [code golf](http://en.wikipedia.org/wiki/Code_golf) with the best of them, the point of this repo is for students to understand the covered topics)
+5. We happy accept contributions that clarify solutions or hints (you are welcome to edit another contributer's submission)
+6. We prefer hints to solutions (the goal is for students to get the solution on their own, without looking at the supplied solutions)
+7. We're not too fussed about exercises that have videos up on the site - if you want to supply hints/solutions, great! But we're more interested in the "optional" exercises that don't have any solutions supplied.
+8. This [blog post](http://www.tracecode.com.au/blog/github-fork-and-pull-requests/) has some advice for beginners on how to contribute to this resource using forks and pull requests.
 
 Thanks everyone who has contributed so far!
